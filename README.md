@@ -1,16 +1,16 @@
-### Hi there 👋
+### What's up! 👋
 
-<!--
-**Yarmaksito/yarmaksito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile, most of my work is private. But I have some exciting projects here.
 
-Here are some ideas to get you started:
+### My languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/lua/lua.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+
+
+### What I work on
+
+** TOP SECRET **
